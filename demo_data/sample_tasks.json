@@ -1,0 +1,11 @@
+{
+  "weeks": [
+    {
+      "week": 1,
+      "tasks": [
+        {"day": "Monday", "task": "Research internships"},
+        {"day": "Tuesday", "task": "Update resume"}
+      ]
+    }
+  ]
+}
