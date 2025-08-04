@@ -1,0 +1,75 @@
+{
+  "user_sessions": {
+    "default_user": {
+      "session_start": "2025-08-02T19:08:41.515372",
+      "first_seen": "2025-08-02T19:08:41.515372",
+      "last_activity": "2025-08-02T19:09:16.787143",
+      "messages_count": 10
+    }
+  },
+  "recent_messages": {
+    "default_user": [
+      {
+        "role": "user",
+        "content": "hi",
+        "timestamp": "2025-08-02T19:08:41.515361",
+        "metadata": {}
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I'm your productivity assistant. I can help you create goals, plan your time, or just chat. What's on your mind?",
+        "timestamp": "2025-08-02T19:08:41.569515",
+        "metadata": {}
+      },
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2025-08-02T19:08:48.520929",
+        "metadata": {}
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to help you with productivity and goal planning! What would you like to work on?",
+        "timestamp": "2025-08-02T19:08:49.236861",
+        "metadata": {}
+      },
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2025-08-02T19:08:53.553082",
+        "metadata": {}
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to help you with productivity and goal planning! What would you like to work on?",
+        "timestamp": "2025-08-02T19:08:53.741481",
+        "metadata": {}
+      },
+      {
+        "role": "user",
+        "content": "how can you help me",
+        "timestamp": "2025-08-02T19:09:04.934311",
+        "metadata": {}
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to help you with productivity and goal planning! What would you like to work on?",
+        "timestamp": "2025-08-02T19:09:05.618393",
+        "metadata": {}
+      },
+      {
+        "role": "user",
+        "content": "i have 2 brothers",
+        "timestamp": "2025-08-02T19:09:16.233287",
+        "metadata": {}
+      },
+      {
+        "role": "assistant",
+        "content": "I'm here to help you with productivity and goal planning! What would you like to work on?",
+        "timestamp": "2025-08-02T19:09:16.787124",
+        "metadata": {}
+      }
+    ]
+  },
+  "last_saved": "2025-08-02T19:09:16.787160"
+}

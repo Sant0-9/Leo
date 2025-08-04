@@ -1,16 +1,67 @@
-# Ignore environment variables
+# Environment variables (NEVER commit API keys!)
 .env
 
-# Ignore local dependencies
-node_modules/
-
-# Ignore Python cache
+# Python
 __pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.pytest_cache/
+dist/
+build/
+*.egg-info/
 
-# Ignore Python virtual environment
+# Virtual environments
 venv/
+env/
+ENV/
 
-# Ignore credentials
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Database
+*.sqlite3
+*.db
+
+# Node.js (Frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React build
+frontend/build/
+
+# Credentials
 credentials.json
 backend/credentials.json
 
+# ChromaDB data (optional - uncomment to exclude)
+# chroma_db/
+
+# Memory persistence (optional - uncomment to exclude)
+# memory_persistence.json
+
+# Temporary files
+*.tmp
+*.temp

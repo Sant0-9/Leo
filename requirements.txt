@@ -1,3 +1,21 @@
-streamlit
-openai
+# Leo AI Assistant - Core Dependencies
+
+# FastAPI Backend
+fastapi
+uvicorn[standard]
 python-dotenv
+pydantic
+python-multipart
+
+# AI Integration
+openai
+
+# Memory & Storage
+chromadb
+sentence-transformers
+
+# Google Services (Optional)
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
